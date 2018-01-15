@@ -1,0 +1,32 @@
+/*
+ * main implementation: use this 'C' sample to create your own application
+ *
+ */
+
+
+
+
+
+#include "derivative.h" /* include peripheral declarations */
+
+
+
+int main(void)
+{
+	int counter = 0;
+	SIM_SCGC5=0x00002400;		//Enable clock in page 323
+	
+	PORTB_PCR21=0x00000100;		//Select GPIO
+	PORTB_PCR22=0x00000100;
+	PORTE_PCR26=0x00000100;
+	
+	GPIOB_PDDX=0x00600000;		//GPIO Output
+	GPIOE_PDDX=0x04000000;
+	
+	for(;;) {
+		GPIOB_PDOR=0x00400000;	//Turn on the pin, turn off the red-LED
+		GPIOB_PDOR=0x00000000;	//Turn off the pin, turn on the red-LED
+	}
+	
+	return 0;
+}
