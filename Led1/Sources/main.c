@@ -32,5 +32,5 @@ int main(void){
 }
 void delay(void){
 	unsigned long i;
-	for(i=0;i<200000;i++);
+	for(i=0;i<10000000;i++);
 }

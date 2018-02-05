@@ -1,0 +1,38 @@
+/*
+ * main implementation: use this 'C' sample to create your own application
+ *
+ */
+
+#include "derivative.h" /* include peripheral declarations */
+
+void vUART_init(void){
+	//UART init
+		SIM:SCGC4 = 0x00000800;	//Hab clk UART1
+		UART1_BDH = 0;
+		UART1_BDL = 0x89;	//137 <- 136.53 para 9600 bps, clk = 640*32768
+		//UART_C1 = 0;
+		UART1_C2 = 12;	//bit 3: Hab TX, bit 2: Hab Rx
+		
+	//Pin terminal init
+		SIM_SCGC5 = 0x000000400;	//Hab clk PORT (PTB16 y 17 son Rx y Tx)
+		PPRTB_PCR16 = 0x00000300;	//PTB16 Rx
+		PPRTB_PCR17 = 0x00000300;	//PTB17	Tx
+}
+
+int main(void){
+	int counter = 0;
+
+	
+
+	
+	while (1){
+		do{}while(!(UART1_S1&0x80));
+		UART1_D = 0x41;	//'A'
+	}
+	
+	for(;;) {	   
+	   	counter++;
+	}
+	
+	return 0;
+}

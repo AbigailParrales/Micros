@@ -1,4 +1,4 @@
 activeuserprofiles=Laptop;Team
 eclipse.preferences.version=1
 org.eclipse.rse.systemtype.local.systemType.defaultUserId=Daniela Parrales
-useridperkey=Laptop.Led1_RAM_Segger J-Link_Trace Target\=Daniela Parrales;Laptop.Led1_FLASH_Segger J-Link_Trace Target\=Daniela Parrales;Laptop.Led1_RAM_Segger J-Link_Trace\=Daniela Parrales;Laptop.Led1_FLASH_Segger J-Link_Trace\=Daniela Parrales;
+useridperkey=Laptop.serial_debug_FLASH_Segger J-Link_Trace Target\=Daniela Parrales;Laptop.serial_debug_RAM_Segger J-Link_Trace\=Daniela Parrales;Laptop.Local\=Daniela Parrales;Laptop.serial_debug_FLASH_Segger J-Link_Trace\=Daniela Parrales;Laptop.Parser_RAM_PnE U-MultiLink\=Daniela Parrales;Laptop.Parser_RAM_PnE U-MultiLink Target\=Daniela Parrales;Laptop.Parser_FLASH_PnE U-MultiLink\=Daniela Parrales;Laptop.Parser_FLASH_PnE U-MultiLink Target\=Daniela Parrales;Laptop.serial_debug_RAM_Segger J-Link_Trace Target\=Daniela Parrales;
