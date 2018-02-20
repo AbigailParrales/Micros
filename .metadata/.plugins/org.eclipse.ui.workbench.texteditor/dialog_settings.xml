@@ -4,7 +4,7 @@
 		<item value="257" key="DIALOG_WIDTH"/>
 		<item value="79" key="DIALOG_Y_ORIGIN"/>
 		<item value="381" key="DIALOG_HEIGHT"/>
-		<item value="954" key="DIALOG_X_ORIGIN"/>
+		<item value="426" key="DIALOG_X_ORIGIN"/>
 		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
@@ -13,11 +13,17 @@
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="false" key="wholeword"/>
-		<item value="" key="selection"/>
+		<item value="mens_ok" key="selection"/>
 		<list key="findhistory">
+			<item value="cmpmens1"/>
+			<item value="N_dig_ip"/>
+			<item value="N_"/>
+			<item value="x"/>
 			<item value="UART1"/>
 		</list>
 		<list key="replacehistory">
+			<item value="mens_ok"/>
+			<item value="IP_lenght"/>
 		</list>
 	</section>
 </section>
