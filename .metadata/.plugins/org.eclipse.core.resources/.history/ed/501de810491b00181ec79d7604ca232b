@@ -1,0 +1,26 @@
+/*
+ * main implementation: use this 'C' sample to create your own application
+ *
+ */
+
+
+
+
+
+#include "derivative.h" /* include peripheral declarations */
+
+
+
+int main(void){
+	SIM_SCGC5 = (1<<13)+1;
+	
+	PORTE_PCR21=(1<<8);
+	
+	GPIO_PDDR|=(1<<21);
+	
+	
+	
+	KAH?
+	
+	return 0;
+}

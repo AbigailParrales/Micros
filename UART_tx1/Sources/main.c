@@ -107,7 +107,7 @@ unsigned char get_buffer_pos (void){
 	unsigned long i=0;    
 	unsigned long cont=0;
 	do{
-		if(buffer[i]=='\n'){		//**Revisar si lo acepta como un solo char
+		if(buffer[i]=='\n'){
 			cont++;
 		}
 		i++;
@@ -120,13 +120,13 @@ unsigned char get_buffer_pos (void){
 void IP_copy(void){
 	unsigned char i=0;
 	bufPos=get_buffer_pos();
-	unsigned long j=(bufPos+14);  //revisar si es la posición 2
+	unsigned long j=(bufPos+14); 
 	do{
 		IP_address[i++]=buffer[j++];
-	}while (buffer[j]!=13); //revisar si es 13 (enter) o 10 (line feed)
+	}while (buffer[j]!=13); 
 	IP_lenght=i;
 }
-void completa_mensaje (void){
+void completa_mensaje (void){		//not used yet
 	unsigned char complemento[]={"/EQUIPO5"};
 	unsigned char i=0;
 	do{
@@ -185,7 +185,6 @@ unsigned char parser_OK(void){	//u8parser2
 		do{}while ((!(UART1_S1&0x20))&&(++cont<=10000000));
 
 		if(cont!=10000000){
-
 			temp = UART1_D; //u8UART_receive();
 			UART0_D=temp;
 
@@ -204,7 +203,6 @@ unsigned char parser_OK(void){	//u8parser2
 			}
 		}
 	}while((mens_ok[i]!=0) && (++cont <= 10000000));
-
 	if (cont==1000000){
 		return 0;
 	}
@@ -268,31 +266,31 @@ int main(void){
 						//vUART_send_IP();
 						//LED=u8UART_receive();//**
 						switch(LED){
-						case 'R':
+						case 'R':		//Red
 							GPIOB_PDOR=0x00200000;
 							GPIOE_PDOR=0x04000000;
 							break;
-						case 'G':
+						case 'G':		//Green
 							GPIOB_PDOR=0x00600000;
 							GPIOE_PDOR=0x00000000;
 							break;
-						case 'B':
+						case 'B':		//Blue
 							GPIOB_PDOR=0x00400000;
 							GPIOE_PDOR=0x04000000;
 							break;
-						case 'M':
+						case 'M':		//Magenta
 							GPIOB_PDOR=0x00000000;
 							GPIOE_PDOR=0x04000000;
 							break;
-						case 'C':
+						case 'C':		//Cyan
 							GPIOB_PDOR=0x00400000;
 							GPIOE_PDOR=0x00000000;
 							break;
-						case 'Y':
+						case 'Y':		//Yellow
 							GPIOB_PDOR=0x00200000;
 							GPIOE_PDOR=0x00000000;
 							break;
-						case 'W':
+						case 'W':		//White
 							GPIOB_PDOR=0x00000000;
 							GPIOE_PDOR=0x00000000;
 							break;

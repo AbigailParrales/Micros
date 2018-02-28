@@ -1,0 +1,79 @@
+/*
+ * main implementation: use this 'C' sample to create your own application
+ *
+ */
+
+
+
+
+
+#include "derivative.h" /* include peripheral declarations */
+
+unsigned char enter[] = ("\r\n");
+unsigned char buffer[5];
+unsigned char f_operand;
+unsigned char s_operand;
+
+void vUART_init(void){
+	SIM_SCGC4=0x00000400; //hAB CLK UART0
+	UART0_BDH=0;
+	UART0_BDL=0x89;
+	UART0_C2=12;  // bit 3: HAB Tx, bit 2: HAB Rx
+
+	//Pin terminal init
+	SIM_SCGC5=0x00000400; //Hab clk PORTB (PB16 y PB17 son Tx y Rx)
+
+	//UART0 Rx and Tx pinout
+	PORTB_PCR16=0x00000300;//Hab clk PB16 Rx
+	PORTB_PCR17=0x00000300;//Hab clk PB17 Tx
+}
+
+void vUART_send (unsigned char dato){
+	do{}while(!(UART0_S1&0x80));
+	UART0_D=dato;
+	//UART0_D=dato;
+}
+
+unsigned char parser_enter(void){	//u8parser2
+	unsigned char i = 0;
+	unsigned char j = 0;
+	unsigned long cont;
+
+	do{	
+		cont = 0;
+		do{}while ((!(UART0_S1&0x20))&&(++cont<=10000000));
+
+		if(cont!=10000000){
+			temp = UART0_D; //u8UART_receive();
+
+			buffer[j++]=temp;
+			
+			if (enter[i]==temp){
+				i++;
+			}
+			else{
+				i=0;
+			}
+		}
+	}while((enter!=0) && (++cont <= 10000000));
+	if (cont==1000000){
+		return 0;
+	}
+	else{
+		return 1;
+	}
+}
+
+void separate_buffer (void){
+	
+}
+
+int main(void){
+	//Initialize terminal UART
+	vUART_init();
+	if(parser_enter()==1){
+		
+	}
+	
+	return 0;
+}

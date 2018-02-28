@@ -7376,3 +7376,2530 @@ Binding(CTRL+SHIFT+H,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.cdt.ui.cViewScope,,,system)
+!SESSION 2018-02-21 21:34:52.955 -----------------------------------------------
+eclipse.buildId=I20070613-1755
+java.version=1.6.0_15
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-21 21:37:50.294
+!MESSAGE NLS missing message: ContentTypes_errorDialogAlreadyExists in: org.eclipse.ui.internal.messages
+
+!ENTRY com.freescale.core.ide.cdt.toolchain 4 0 2018-02-21 21:38:55.651
+!MESSAGE Environment Variable Dependency not resolved for 'ARMGNUDirEnv'.
+
+!ENTRY com.freescale.core.ide.cdt.toolchain 4 0 2018-02-21 21:38:55.775
+!MESSAGE Environment Variable Dependency not resolved for 'ARMSummonDirEnv'.
+
+!ENTRY com.freescale.core.ide.cdt.toolchain 4 0 2018-02-21 21:38:55.776
+!MESSAGE Environment Variable Dependency not resolved for 'ARMYagartoDirEnv'.
+
+!ENTRY com.freescale.core.ide.cdt.toolchain 4 0 2018-02-21 21:38:55.777
+!MESSAGE Environment Variable Dependency not resolved for 'ARMdevkitProDirEnv'.
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2018-02-21 21:39:01.495
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.7\eclipse\../MCU/lib/wizard_data/mqx/4.0/cf' does not exist
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2018-02-21 21:39:01.497
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.7\eclipse\../MCU/lib/wizard_data/mqx/4.0/ppc' does not exist
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2018-02-21 21:39:01.500
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.7\eclipse\../MCU/lib/wizard_data/mqx/4.0/patches' does not exist
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2018-02-21 21:39:03.385
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.7\eclipse\../MCU/lib/wizard_data/mqx/4.1/cf' does not exist
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2018-02-21 21:39:03.388
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.7\eclipse\../MCU/lib/wizard_data/mqx/4.1/ppc' does not exist
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2018-02-21 21:39:03.389
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.7\eclipse\../MCU/lib/wizard_data/mqx/4.1/patches' does not exist
+
+!ENTRY com.freescale.processorexpert.core 1 0 2018-02-21 21:39:22.617
+!MESSAGE Plugin com.freescale.processorexpert.core.service ProcessorExpertServiceProvider
+!SESSION 2018-02-22 11:35:23.539 -----------------------------------------------
+eclipse.buildId=I20070613-1755
+java.version=1.6.0_15
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 11:43:12.465
+!MESSAGE NLS missing message: ContentTypes_errorDialogAlreadyExists in: org.eclipse.ui.internal.messages
+
+!ENTRY com.freescale.core.ide.cdt.toolchain 4 0 2018-02-22 11:43:42.249
+!MESSAGE Environment Variable Dependency not resolved for 'ARMGNUDirEnv'.
+
+!ENTRY com.freescale.core.ide.cdt.toolchain 4 0 2018-02-22 11:43:42.277
+!MESSAGE Environment Variable Dependency not resolved for 'ARMSummonDirEnv'.
+
+!ENTRY com.freescale.core.ide.cdt.toolchain 4 0 2018-02-22 11:43:42.281
+!MESSAGE Environment Variable Dependency not resolved for 'ARMYagartoDirEnv'.
+
+!ENTRY com.freescale.core.ide.cdt.toolchain 4 0 2018-02-22 11:43:42.281
+!MESSAGE Environment Variable Dependency not resolved for 'ARMdevkitProDirEnv'.
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2018-02-22 11:43:46.898
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.7\eclipse\../MCU/lib/wizard_data/mqx/4.0/cf' does not exist
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2018-02-22 11:43:46.898
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.7\eclipse\../MCU/lib/wizard_data/mqx/4.0/ppc' does not exist
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2018-02-22 11:43:46.902
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.7\eclipse\../MCU/lib/wizard_data/mqx/4.0/patches' does not exist
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2018-02-22 11:43:48.682
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.7\eclipse\../MCU/lib/wizard_data/mqx/4.1/cf' does not exist
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2018-02-22 11:43:48.686
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.7\eclipse\../MCU/lib/wizard_data/mqx/4.1/ppc' does not exist
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2018-02-22 11:43:48.690
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.7\eclipse\../MCU/lib/wizard_data/mqx/4.1/patches' does not exist
+
+!ENTRY com.freescale.processorexpert.core 1 0 2018-02-22 11:44:02.840
+!MESSAGE Plugin com.freescale.processorexpert.core.service ProcessorExpertServiceProvider
+
+!ENTRY org.eclipse.jface 2 0 2018-02-22 12:45:20.052
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-22 12:45:20.053
+!MESSAGE A conflict occurred for ALT+CTRL+I:
+Binding(ALT+CTRL+I,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.include.browser,Open Include Browser,
+		Open an include browser on the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1c0279d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(ALT+CTRL+I,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.include.browser,Open Include Browser,
+		Open an include browser on the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1c0279d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-22 12:45:20.053
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.text.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.cdt.ui.category.refactoring,Refactor - C++,C/C++ Refactorings,true),
+		org.eclipse.ui.internal.MakeHandlersGo@68ba71,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.text.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.cdt.ui.category.refactoring,Refactor - C++,C/C++ Refactorings,true),
+		org.eclipse.ui.internal.MakeHandlersGo@68ba71,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-22 12:45:20.053
+!MESSAGE A conflict occurred for F4:
+Binding(F4,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.type.hierarchy,Open Type Hierarchy,
+		Open a type hierarchy on the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1a88c6c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(F4,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.type.hierarchy,Open Type Hierarchy,
+		Open a type hierarchy on the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1a88c6c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-22 12:45:20.053
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.navigate.opentype,Open Element,
+		Open an element in an Editor,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@9b0a61,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.navigate.opentype,Open Element,
+		Open an element in an Editor,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@9b0a61,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-22 12:45:20.054
+!MESSAGE A conflict occurred for F3:
+Binding(F3,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.opendecl,Open Declaration,
+		Open an editor on the selected element's declaration(s),
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@c68c8b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(F3,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.opendecl,Open Declaration,
+		Open an editor on the selected element's declaration(s),
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@c68c8b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-22 12:45:20.054
+!MESSAGE A conflict occurred for CTRL+G:
+Binding(CTRL+G,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.search.finddecl,Declaration,
+		Search for declarations of the selected element in the workspace,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@134fe2d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(CTRL+G,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.search.finddecl,Declaration,
+		Search for declarations of the selected element in the workspace,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@134fe2d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-22 12:45:20.054
+!MESSAGE A conflict occurred for CTRL+SHIFT+G:
+Binding(CTRL+SHIFT+G,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.search.findrefs,References,
+		Search for references to the selected element in the workspace,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1b4e69,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(CTRL+SHIFT+G,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.search.findrefs,References,
+		Search for references to the selected element in the workspace,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1b4e69,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-22 12:45:20.054
+!MESSAGE A conflict occurred for ALT+CTRL+H:
+Binding(ALT+CTRL+H,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.call.hierarchy,Open Call Hierarchy,
+		Open the call hierarchy for the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@b906f1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(ALT+CTRL+H,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.call.hierarchy,Open Call Hierarchy,
+		Open the call hierarchy for the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@b906f1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-22 12:45:20.054
+!MESSAGE A conflict occurred for CTRL+SHIFT+H:
+Binding(CTRL+SHIFT+H,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.navigate.open.type.in.hierarchy,Open Type in Hierarchy,
+		Open a type in the type hierarchy view,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@176f415,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(CTRL+SHIFT+H,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.navigate.open.type.in.hierarchy,Open Type in Hierarchy,
+		Open a type in the type hierarchy view,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@176f415,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 14:20:50.691
+!MESSAGE NLS unused message: trace_trigger_dv_error_title in: com.freescale.sa.mcu.analysispoints.nls.ui
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 14:20:50.707
+!MESSAGE NLS unused message: trace_trigger_dv_error_message in: com.freescale.sa.mcu.analysispoints.nls.ui
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:19.975
+!MESSAGE NLS unused message: NewProjectCreator_coreException1 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:19.975
+!MESSAGE NLS unused message: NewProjectCreator_coreException2 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:19.975
+!MESSAGE NLS unused message: NewProjectCreator_coreException3 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:19.975
+!MESSAGE NLS unused message: NewProjectCreator_exception1 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:19.975
+!MESSAGE NLS unused message: NewProjectCreator_wizardException1 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:19.975
+!MESSAGE NLS unused message: NewProjectCreator_wizardException2 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:19.975
+!MESSAGE NLS unused message: NewProjectCreator_wizardException3 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:19.975
+!MESSAGE NLS unused message: NewProjectCreator_wizardException4 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:19.975
+!MESSAGE NLS unused message: NewProjectCreator_wizardException5 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:19.975
+!MESSAGE NLS unused message: NewProjectCreator_wizardException6 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:19.975
+!MESSAGE NLS unused message: NewProjectCreator_wizardException7 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:19.975
+!MESSAGE NLS unused message: NewProjectCreator_wizardException8 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:19.975
+!MESSAGE NLS unused message: NewProjectCreator_wizardException9 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:19.975
+!MESSAGE NLS unused message: NewProjectCreator_logError1 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:19.975
+!MESSAGE NLS unused message: NewProjectCreator_logError2 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:19.975
+!MESSAGE NLS unused message: NewProjectCreator_logError3 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:19.975
+!MESSAGE NLS unused message: NewProjectCreator_logError4 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:19.975
+!MESSAGE NLS unused message: NewProjectCreator_multiProjType in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:19.975
+!MESSAGE NLS unused message: NewProjectCreator_typeNotFound in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:19.991
+!MESSAGE NLS unused message: NewProjectCreator_saveOptions in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:19.991
+!MESSAGE NLS unused message: NewProjectCreator_cantLocateType in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:19.991
+!MESSAGE NLS unused message: NewProjectCreator_addNature in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:19.991
+!MESSAGE NLS unused message: NewProjectCreator_addBuilder in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:19.991
+!MESSAGE NLS unused message: NewProjectCreator_settingNotFound in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:19.991
+!MESSAGE NLS unused message: NewProjectCreator_optionNotFound in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:19.991
+!MESSAGE NLS unused message: NewProjectCreator_unknownOption in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:19.991
+!MESSAGE NLS unused message: NewProjectCreator_configNotFound in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:19.991
+!MESSAGE NLS unused message: NewProjectCreator_varContainsOpenBrace in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:19.991
+!MESSAGE NLS unused message: NewProjectCreator_endlessVarLoop in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:19.991
+!MESSAGE NLS unused message: NewProjectCreator_userFilesNotFound in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:19.991
+!MESSAGE NLS unused message: NewProjectCreator_warningTitleFilesNotFound in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:19.991
+!MESSAGE NLS unused message: ExtensionLoader_loadexception in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:19.991
+!MESSAGE NLS unused message: ExtensionLoader_wizardException in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:19.991
+!MESSAGE NLS unused message: ExtensionLoader_unknown in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:19.991
+!MESSAGE NLS unused message: ExtensionLoader_illElement in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:19.991
+!MESSAGE NLS unused message: CWWizard_windowTitle in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:19.991
+!MESSAGE NLS unused message: CWWizard_description in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:19.991
+!MESSAGE NLS unused message: CWWizard_pageTitle in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:20.006
+!MESSAGE NLS unused message: CWWizard_pageDescription in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:20.006
+!MESSAGE NLS unused message: CWWizard_errorTitle in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:20.006
+!MESSAGE NLS unused message: CWWizard_errorMsg in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:20.006
+!MESSAGE NLS unused message: CWWizard_classicImporter_pageTitle in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:20.006
+!MESSAGE NLS unused message: CWWizard_classicImporter_pageDescription in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:20.006
+!MESSAGE NLS unused message: WizardInfo_wizardException0 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:20.006
+!MESSAGE NLS unused message: WizardInfo_wizardException1 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:20.006
+!MESSAGE NLS unused message: ApplySetting_noChildFound in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:20.006
+!MESSAGE NLS unused message: ApplySetting_attrNotAllowed in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:20.006
+!MESSAGE NLS unused message: ApplySetting_childNotAllowed in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:20.006
+!MESSAGE NLS unused message: ApplySetting_attrNotSpecified in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:20.006
+!MESSAGE NLS unused message: ApplySetting_errValueType in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:20.006
+!MESSAGE NLS unused message: ApplySetting_illSettingType in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:20.006
+!MESSAGE NLS unused message: ApplySetting_illSettingMode in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:20.006
+!MESSAGE NLS unused message: ProjectNamePage_stepFormat in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:20.006
+!MESSAGE NLS unused message: ProjectNamePage_collisionWarn in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:20.006
+!MESSAGE NLS unused message: ProjectName_error in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-22 16:33:20.006
+!MESSAGE NLS unused message: ProjectLocation_error in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:28.086
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.hcs08
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:28.086
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.rs08
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:28.086
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.s12z
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:28.101
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.dsc
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:28.101
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.mpc56xx
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:28.101
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.px
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:28.101
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.cfv1
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:28.101
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.cfv1+
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:28.101
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.v2
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:28.101
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.v3
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:28.101
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.v4
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:28.101
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.v4e
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:28.101
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.board.family.v2
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:28.101
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.board.family.v3
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:28.101
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.board.family.v4
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:28.101
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.board.family.v4e
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:28.101
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.twrboard.family.v2
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:28.101
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.twrboard.family.v3
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:28.101
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.twrboard.family.v4
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:28.101
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.twrboard.family.v4e
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:28.117
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.s12z.subfamily.zvm
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:45.564
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk10.ID_CHIP_MK10N512
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:45.579
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk10.ID_CHIP_MK10X128
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:45.595
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk10.ID_CHIP_MK10X256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:45.595
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk20.ID_CHIP_MK20N512
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:45.595
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk20.ID_CHIP_MK20X128
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:45.595
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk20.ID_CHIP_MK20X256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:45.611
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk30.ID_CHIP_MK30N512
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:45.611
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk30.ID_CHIP_MK30X128
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:45.611
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk30.ID_CHIP_MK30X256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:45.611
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk40.ID_CHIP_MK40N512
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:45.611
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk40.ID_CHIP_MK40X128
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:45.611
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk40.ID_CHIP_MK40X256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:45.611
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk60.ID_CHIP_MK60N256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:45.611
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk60.ID_CHIP_MK60N512
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:45.611
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk60.ID_CHIP_MK60X256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:53.226
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_SIZE_LIB_YES
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:53.226
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.pa.hasPermanent.dualCore.homogeneous.config
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:53.226
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_SOFTWARE_FPU
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:53.226
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_HARDWARE_FPU
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:53.226
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_SIZE_LIB_NO
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:53.242
+!MESSAGE Unknown condition ID: mcu.projectwizard.chip.k10d_100.ID_CHIP_MK60DN256Z
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:53.242
+!MESSAGE Unknown condition ID: mcu.projectwizard.chip.k10d_100.ID_CHIP_MK60DN256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:53.257
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.hc08
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:53.277
+!MESSAGE Unknown condition ID: com.processorexpert.variant.7
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:53.279
+!MESSAGE Unknown condition ID: com.processorexpert.variant.8
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:53.280
+!MESSAGE Unknown condition ID: com.processorexpert.variant.9
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:53.280
+!MESSAGE Unknown condition ID: com.processorexpert.configuration.3
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:53.280
+!MESSAGE Unknown condition ID: com.processorexpert.configuration.4
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:53.280
+!MESSAGE Unknown condition ID: com.processorexpert.configuration.5
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:53.280
+!MESSAGE Unknown condition ID: com.processorexpert.configuration.6
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:53.628
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.isColdFire.v1.ID_TARGET_BOOTFLASH
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:53.643
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_TARGET_INTRAM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:53.643
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_TARGET_CONSOLE_INTRAM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:53.643
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_TARGET_EXTRAM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:53.643
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_TARGET_CONSOLE_EXTRAM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:53.643
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_TARGET_INTFLASH
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:53.643
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_TARGET_EXTFLASH
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:53.643
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.dsc.ID_TARGET_INTERNAL_FLASH_SDM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:53.643
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.dsc.ID_TARGET_INTERNAL_FLASH_LDM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:53.643
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.dsc.ID_TARGET_EXTERNAL_RAM_SDM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:53.643
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.dsc.ID_TARGET_EXTERNAL_RAM_LDM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:53.643
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.dsc.ID_TARGET_SIMULATOR
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:53.643
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.pa.ID_TARGET_INTERNAL_RAM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:53.643
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.pa.ID_TARGET_INTERNAL_FLASH
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:54.196
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copytoproject.cfv1
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:54.196
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.dontcopytoproject
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:54.196
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.abs
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:54.212
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copyelf.pa
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:54.212
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.elf.arm
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:54.212
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.elf.dsc
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:54.212
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.elf.s12z
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:54.212
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.bb.elf
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:54.212
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.kd.elf
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:54.212
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.app.elf
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:54.212
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.flt
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-22 16:33:54.212
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.arm.setSeggerJLinkDPI.SWD
+
+!ENTRY org.eclipse.cdt.core 1 0 2018-02-22 16:34:07.366
+!MESSAGE Indexed 'Examen P1' (4 sources, 29 headers) in 6.46 sec: 1,686 declarations; 1,951 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+!SESSION 2018-02-24 16:52:41.554 -----------------------------------------------
+eclipse.buildId=I20070613-1755
+java.version=1.6.0_15
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.resources 2 10035 2018-02-24 16:52:49.055
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-24 16:52:54.077
+!MESSAGE NLS missing message: ContentTypes_errorDialogAlreadyExists in: org.eclipse.ui.internal.messages
+
+!ENTRY com.freescale.core.ide.cdt.toolchain 4 0 2018-02-24 16:53:27.134
+!MESSAGE Environment Variable Dependency not resolved for 'ARMGNUDirEnv'.
+
+!ENTRY com.freescale.core.ide.cdt.toolchain 4 0 2018-02-24 16:53:27.199
+!MESSAGE Environment Variable Dependency not resolved for 'ARMSummonDirEnv'.
+
+!ENTRY com.freescale.core.ide.cdt.toolchain 4 0 2018-02-24 16:53:27.200
+!MESSAGE Environment Variable Dependency not resolved for 'ARMYagartoDirEnv'.
+
+!ENTRY com.freescale.core.ide.cdt.toolchain 4 0 2018-02-24 16:53:27.202
+!MESSAGE Environment Variable Dependency not resolved for 'ARMdevkitProDirEnv'.
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2018-02-24 16:53:32.172
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.7\eclipse\../MCU/lib/wizard_data/mqx/4.0/cf' does not exist
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2018-02-24 16:53:32.172
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.7\eclipse\../MCU/lib/wizard_data/mqx/4.0/ppc' does not exist
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2018-02-24 16:53:32.172
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.7\eclipse\../MCU/lib/wizard_data/mqx/4.0/patches' does not exist
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2018-02-24 16:53:34.159
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.7\eclipse\../MCU/lib/wizard_data/mqx/4.1/cf' does not exist
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2018-02-24 16:53:34.159
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.7\eclipse\../MCU/lib/wizard_data/mqx/4.1/ppc' does not exist
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2018-02-24 16:53:34.175
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.7\eclipse\../MCU/lib/wizard_data/mqx/4.1/patches' does not exist
+
+!ENTRY com.freescale.processorexpert.core 1 0 2018-02-24 16:53:55.843
+!MESSAGE Plugin com.freescale.processorexpert.core.service ProcessorExpertServiceProvider
+
+!ENTRY com.freescale.core.ide.rseSettingsCache 4 0 2018-02-24 16:53:58.759
+!MESSAGE The resource tree is locked for modifications.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: The resource tree is locked for modifications.
+	at org.eclipse.core.internal.resources.WorkManager.checkIn(WorkManager.java:116)
+	at org.eclipse.core.internal.resources.Workspace.prepareOperation(Workspace.java:2329)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2386)
+	at com.freescale.core.ide.rseSettingsCache.internal.UpdateScheduler.performPendingTasks(UpdateScheduler.java:132)
+	at com.freescale.core.ide.rseSettingsCache.internal.Engine$1.resourceChanged(Engine.java:99)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:291)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:285)
+	at org.eclipse.core.internal.events.NotificationManager.handleEvent(NotificationManager.java:249)
+	at org.eclipse.core.internal.resources.Workspace.broadcastEvent(Workspace.java:396)
+	at org.eclipse.core.internal.resources.Project.close(Project.java:217)
+	at org.eclipse.ui.actions.CloseResourceAction.invokeOperation(CloseResourceAction.java:129)
+	at org.eclipse.ui.actions.WorkspaceAction.execute(WorkspaceAction.java:164)
+	at org.eclipse.ui.actions.WorkspaceAction$2.runInWorkspace(WorkspaceAction.java:485)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.core.resources 4 380 2018-02-24 16:53:58.759
+!MESSAGE The resource tree is locked for modifications.
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2018-02-24 16:53:59.914
+!MESSAGE Connection to http://nxp.com/lgfiles/updates/Eclipse/MCU10_7/updatesite/p2.index failed on nxp.com. Retry attempt 0 started
+!STACK 0
+java.net.UnknownHostException: nxp.com
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at org.eclipse.ecf.provider.filetransfer.events.socket.SocketEventCreateUtil.createSocket(SocketEventCreateUtil.java:43)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient.ECFHttpClientProtocolSocketFactory.createSocket(ECFHttpClientProtocolSocketFactory.java:81)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient.ECFHttpClientProtocolSocketFactory.createSocket(ECFHttpClientProtocolSocketFactory.java:73)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient.ECFHttpClientProtocolSocketFactory.createSocket(ECFHttpClientProtocolSocketFactory.java:65)
+	at org.apache.commons.httpclient.HttpConnection.open(HttpConnection.java:707)
+	at org.apache.commons.httpclient.MultiThreadedHttpConnectionManager$HttpConnectionAdapter.open(MultiThreadedHttpConnectionManager.java:1361)
+	at org.apache.commons.httpclient.HttpMethodDirector.executeWithRetry(HttpMethodDirector.java:387)
+	at org.apache.commons.httpclient.HttpMethodDirector.executeMethod(HttpMethodDirector.java:171)
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:397)
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:346)
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1129)
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientRetrieveFileTransfer.openStreams(HttpClientRetrieveFileTransfer.java:699)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.sendRetrieveRequest(AbstractRetrieveFileTransfer.java:879)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.sendRetrieveRequest(AbstractRetrieveFileTransfer.java:570)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.MultiProtocolRetrieveAdapter.sendRetrieveRequest(MultiProtocolRetrieveAdapter.java:106)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileReader.sendRetrieveRequest(FileReader.java:422)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileReader.readInto(FileReader.java:355)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.download(RepositoryTransport.java:101)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.download(RepositoryTransport.java:156)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadIndexFile(AbstractRepositoryManager.java:721)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:640)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:150)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:128)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:72)
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-24 16:54:00.500
+!MESSAGE NLS unused message: CacheManager_CannotLoadNonUrlLocation in: org.eclipse.equinox.internal.p2.repository.messages
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 4 1006 2018-02-24 16:54:00.515
+!MESSAGE Unknown Host: http://nxp.com/lgfiles/updates/Eclipse/MCU10_7/updatesite/content.xml
+!STACK 0
+java.net.UnknownHostException: nxp.com
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at org.eclipse.ecf.provider.filetransfer.events.socket.SocketEventCreateUtil.createSocket(SocketEventCreateUtil.java:43)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient.ECFHttpClientProtocolSocketFactory.createSocket(ECFHttpClientProtocolSocketFactory.java:81)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient.ECFHttpClientProtocolSocketFactory.createSocket(ECFHttpClientProtocolSocketFactory.java:73)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient.ECFHttpClientProtocolSocketFactory.createSocket(ECFHttpClientProtocolSocketFactory.java:65)
+	at org.apache.commons.httpclient.HttpConnection.open(HttpConnection.java:707)
+	at org.apache.commons.httpclient.MultiThreadedHttpConnectionManager$HttpConnectionAdapter.open(MultiThreadedHttpConnectionManager.java:1361)
+	at org.apache.commons.httpclient.HttpMethodDirector.executeWithRetry(HttpMethodDirector.java:387)
+	at org.apache.commons.httpclient.HttpMethodDirector.executeMethod(HttpMethodDirector.java:171)
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:397)
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:346)
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientFileSystemBrowser.runRequest(HttpClientFileSystemBrowser.java:232)
+	at org.eclipse.ecf.provider.filetransfer.browse.AbstractFileSystemBrowser$DirectoryJob.run(AbstractFileSystemBrowser.java:69)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+
+!ENTRY com.freescale.core.debugger.cdt 4 120 2018-02-24 16:54:01.380
+!MESSAGE Error logged from CodeWarrior debugger core:
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration UART_tx1_RAM_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_RAM_Segger%20J-Link_Trace.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:1077)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1553)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:453)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:614)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.performMarshalling(CWHost.java:146)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.handleSystemModelResourceChanged(CWHost.java:131)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHostBareboardSystem.handleSystemModelResourceChanged(CWHostBareboardSystem.java:974)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler$1.run(SystemModelChangeHandler.java:246)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler.run(SystemModelChangeHandler.java:250)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2018-02-24 16:54:01.380
+!MESSAGE Launch configuration UART_tx1_RAM_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_RAM_Segger%20J-Link_Trace.launch does not exist.
+
+!ENTRY com.freescale.core.debugger.cdt 4 120 2018-02-24 16:54:01.396
+!MESSAGE Error logged from CodeWarrior debugger core:
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration UART_tx1_FLASH_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_FLASH_Segger%20J-Link_Trace.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:1077)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1553)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:453)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:614)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.performMarshalling(CWHost.java:146)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.handleSystemModelResourceChanged(CWHost.java:131)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHostBareboardSystem.handleSystemModelResourceChanged(CWHostBareboardSystem.java:974)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler$1.run(SystemModelChangeHandler.java:246)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler.run(SystemModelChangeHandler.java:250)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2018-02-24 16:54:01.397
+!MESSAGE Launch configuration UART_tx1_FLASH_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_FLASH_Segger%20J-Link_Trace.launch does not exist.
+
+!ENTRY com.freescale.core.debugger.cdt 4 120 2018-02-24 16:54:01.398
+!MESSAGE Error logged from CodeWarrior debugger core:
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration UART_tx1_RAM_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_RAM_Segger%20J-Link_Trace.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:1077)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1553)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:453)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:614)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.performMarshalling(CWHost.java:146)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.handleSystemModelResourceChanged(CWHost.java:131)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHostBareboardSystem.handleSystemModelResourceChanged(CWHostBareboardSystem.java:974)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler$1.run(SystemModelChangeHandler.java:246)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler.run(SystemModelChangeHandler.java:250)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2018-02-24 16:54:01.399
+!MESSAGE Launch configuration UART_tx1_RAM_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_RAM_Segger%20J-Link_Trace.launch does not exist.
+
+!ENTRY com.freescale.core.debugger.cdt 4 120 2018-02-24 16:54:01.402
+!MESSAGE Error logged from CodeWarrior debugger core:
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration UART_tx1_FLASH_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_FLASH_Segger%20J-Link_Trace.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:1077)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1553)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:453)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:614)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.performMarshalling(CWHost.java:146)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.handleSystemModelResourceChanged(CWHost.java:131)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHostBareboardSystem.handleSystemModelResourceChanged(CWHostBareboardSystem.java:974)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler$1.run(SystemModelChangeHandler.java:246)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler.run(SystemModelChangeHandler.java:250)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2018-02-24 16:54:01.402
+!MESSAGE Launch configuration UART_tx1_FLASH_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_FLASH_Segger%20J-Link_Trace.launch does not exist.
+
+!ENTRY com.freescale.core.debugger.cdt 4 120 2018-02-24 16:54:01.402
+!MESSAGE Error logged from CodeWarrior debugger core:
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration UART_tx1_RAM_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_RAM_Segger%20J-Link_Trace.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:1077)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1553)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:453)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:614)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.performMarshalling(CWHost.java:146)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.handleSystemModelResourceChanged(CWHost.java:131)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHostBareboardSystem.handleSystemModelResourceChanged(CWHostBareboardSystem.java:974)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler$1.run(SystemModelChangeHandler.java:246)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler.run(SystemModelChangeHandler.java:250)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2018-02-24 16:54:01.402
+!MESSAGE Launch configuration UART_tx1_RAM_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_RAM_Segger%20J-Link_Trace.launch does not exist.
+
+!ENTRY com.freescale.core.debugger.cdt 4 120 2018-02-24 16:54:01.402
+!MESSAGE Error logged from CodeWarrior debugger core:
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration UART_tx1_FLASH_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_FLASH_Segger%20J-Link_Trace.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:1077)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1553)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:453)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:614)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.performMarshalling(CWHost.java:146)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.handleSystemModelResourceChanged(CWHost.java:131)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler$1.run(SystemModelChangeHandler.java:246)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler.run(SystemModelChangeHandler.java:250)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2018-02-24 16:54:01.402
+!MESSAGE Launch configuration UART_tx1_FLASH_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_FLASH_Segger%20J-Link_Trace.launch does not exist.
+
+!ENTRY com.freescale.core.debugger.cdt 4 120 2018-02-24 16:54:01.402
+!MESSAGE Error logged from CodeWarrior debugger core:
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration UART_tx1_RAM_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_RAM_Segger%20J-Link_Trace.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:1077)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1553)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:453)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:614)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.performMarshalling(CWHost.java:146)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.handleSystemModelResourceChanged(CWHost.java:131)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler$1.run(SystemModelChangeHandler.java:246)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler.run(SystemModelChangeHandler.java:250)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2018-02-24 16:54:01.402
+!MESSAGE Launch configuration UART_tx1_RAM_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_RAM_Segger%20J-Link_Trace.launch does not exist.
+
+!ENTRY com.freescale.core.debugger.cdt 4 120 2018-02-24 16:54:01.417
+!MESSAGE Error logged from CodeWarrior debugger core:
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration UART_tx1_FLASH_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_FLASH_Segger%20J-Link_Trace.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:1077)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1553)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:453)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:614)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.performMarshalling(CWHost.java:146)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.handleSystemModelResourceChanged(CWHost.java:131)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHostBareboardSystem.handleSystemModelResourceChanged(CWHostBareboardSystem.java:974)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler$1.run(SystemModelChangeHandler.java:246)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler.run(SystemModelChangeHandler.java:250)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2018-02-24 16:54:01.417
+!MESSAGE Launch configuration UART_tx1_FLASH_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_FLASH_Segger%20J-Link_Trace.launch does not exist.
+
+!ENTRY com.freescale.core.debugger.cdt 4 120 2018-02-24 16:54:01.417
+!MESSAGE Error logged from CodeWarrior debugger core:
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration UART_tx1_RAM_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_RAM_Segger%20J-Link_Trace.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:1077)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1553)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:453)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:614)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.performMarshalling(CWHost.java:146)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.handleSystemModelResourceChanged(CWHost.java:131)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHostBareboardSystem.handleSystemModelResourceChanged(CWHostBareboardSystem.java:974)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler$1.run(SystemModelChangeHandler.java:246)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler.run(SystemModelChangeHandler.java:250)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2018-02-24 16:54:01.417
+!MESSAGE Launch configuration UART_tx1_RAM_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_RAM_Segger%20J-Link_Trace.launch does not exist.
+
+!ENTRY com.freescale.core.debugger.cdt 4 120 2018-02-24 16:54:01.417
+!MESSAGE Error logged from CodeWarrior debugger core:
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration UART_tx1_FLASH_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_FLASH_Segger%20J-Link_Trace.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:1077)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1553)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:453)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:614)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.performMarshalling(CWHost.java:146)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.handleSystemModelResourceChanged(CWHost.java:131)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler$1.run(SystemModelChangeHandler.java:246)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler.run(SystemModelChangeHandler.java:250)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2018-02-24 16:54:01.417
+!MESSAGE Launch configuration UART_tx1_FLASH_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_FLASH_Segger%20J-Link_Trace.launch does not exist.
+
+!ENTRY com.freescale.core.debugger.cdt 4 120 2018-02-24 16:54:01.417
+!MESSAGE Error logged from CodeWarrior debugger core:
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration UART_tx1_RAM_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_RAM_Segger%20J-Link_Trace.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:1077)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1553)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:453)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:614)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.performMarshalling(CWHost.java:146)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.handleSystemModelResourceChanged(CWHost.java:131)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler$1.run(SystemModelChangeHandler.java:246)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler.run(SystemModelChangeHandler.java:250)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2018-02-24 16:54:01.417
+!MESSAGE Launch configuration UART_tx1_RAM_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_RAM_Segger%20J-Link_Trace.launch does not exist.
+
+!ENTRY com.freescale.core.debugger.cdt 4 120 2018-02-24 16:54:01.417
+!MESSAGE Error logged from CodeWarrior debugger core:
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration UART_tx1_FLASH_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_FLASH_Segger%20J-Link_Trace.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:1077)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1553)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:453)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:614)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.performMarshalling(CWHost.java:146)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.handleSystemModelResourceChanged(CWHost.java:131)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler$1.run(SystemModelChangeHandler.java:246)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler.run(SystemModelChangeHandler.java:250)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2018-02-24 16:54:01.417
+!MESSAGE Launch configuration UART_tx1_FLASH_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_FLASH_Segger%20J-Link_Trace.launch does not exist.
+
+!ENTRY com.freescale.core.debugger.cdt 4 120 2018-02-24 16:54:01.417
+!MESSAGE Error logged from CodeWarrior debugger core:
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration UART_tx1_RAM_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_RAM_Segger%20J-Link_Trace.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:1077)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1553)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:453)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:614)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.performMarshalling(CWHost.java:146)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.handleSystemModelResourceChanged(CWHost.java:131)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler$1.run(SystemModelChangeHandler.java:246)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler.run(SystemModelChangeHandler.java:250)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2018-02-24 16:54:01.417
+!MESSAGE Launch configuration UART_tx1_RAM_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_RAM_Segger%20J-Link_Trace.launch does not exist.
+
+!ENTRY com.freescale.core.debugger.cdt 4 120 2018-02-24 16:54:01.417
+!MESSAGE Error logged from CodeWarrior debugger core:
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration UART_tx1_FLASH_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_FLASH_Segger%20J-Link_Trace.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:1077)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1553)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:453)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:614)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.performMarshalling(CWHost.java:146)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.handleSystemModelResourceChanged(CWHost.java:131)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler$1.run(SystemModelChangeHandler.java:246)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler.run(SystemModelChangeHandler.java:250)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2018-02-24 16:54:01.433
+!MESSAGE Launch configuration UART_tx1_FLASH_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_FLASH_Segger%20J-Link_Trace.launch does not exist.
+
+!ENTRY com.freescale.core.debugger.cdt 4 120 2018-02-24 16:54:01.433
+!MESSAGE Error logged from CodeWarrior debugger core:
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration UART_tx1_RAM_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_RAM_Segger%20J-Link_Trace.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:1077)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1553)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:453)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:614)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.performMarshalling(CWHost.java:146)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.handleSystemModelResourceChanged(CWHost.java:131)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler$1.run(SystemModelChangeHandler.java:246)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler.run(SystemModelChangeHandler.java:250)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2018-02-24 16:54:01.433
+!MESSAGE Launch configuration UART_tx1_RAM_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_RAM_Segger%20J-Link_Trace.launch does not exist.
+
+!ENTRY com.freescale.core.debugger.cdt 4 120 2018-02-24 16:54:01.433
+!MESSAGE Error logged from CodeWarrior debugger core:
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration UART_tx1_FLASH_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_FLASH_Segger%20J-Link_Trace.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:1077)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1553)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:453)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:614)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.performMarshalling(CWHost.java:146)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.handleSystemModelResourceChanged(CWHost.java:131)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler$1.run(SystemModelChangeHandler.java:246)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler.run(SystemModelChangeHandler.java:250)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2018-02-24 16:54:01.433
+!MESSAGE Launch configuration UART_tx1_FLASH_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_FLASH_Segger%20J-Link_Trace.launch does not exist.
+
+!ENTRY com.freescale.core.debugger.cdt 4 120 2018-02-24 16:54:01.433
+!MESSAGE Error logged from CodeWarrior debugger core:
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration UART_tx1_RAM_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_RAM_Segger%20J-Link_Trace.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:1077)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1553)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:453)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:614)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.performMarshalling(CWHost.java:146)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.handleSystemModelResourceChanged(CWHost.java:131)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler$1.run(SystemModelChangeHandler.java:246)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler.run(SystemModelChangeHandler.java:250)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2018-02-24 16:54:01.433
+!MESSAGE Launch configuration UART_tx1_RAM_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_RAM_Segger%20J-Link_Trace.launch does not exist.
+
+!ENTRY com.freescale.core.debugger.cdt 4 120 2018-02-24 16:54:01.449
+!MESSAGE Error logged from CodeWarrior debugger core:
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration UART_tx1_FLASH_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_FLASH_Segger%20J-Link_Trace.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:1077)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1553)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:453)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:614)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.performMarshalling(CWHost.java:146)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.handleSystemModelResourceChanged(CWHost.java:131)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHostBareboardSystem.handleSystemModelResourceChanged(CWHostBareboardSystem.java:974)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler$1.run(SystemModelChangeHandler.java:246)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler.run(SystemModelChangeHandler.java:250)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2018-02-24 16:54:01.449
+!MESSAGE Launch configuration UART_tx1_FLASH_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_FLASH_Segger%20J-Link_Trace.launch does not exist.
+
+!ENTRY com.freescale.core.debugger.cdt 4 120 2018-02-24 16:54:01.449
+!MESSAGE Error logged from CodeWarrior debugger core:
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration UART_tx1_RAM_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_RAM_Segger%20J-Link_Trace.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:1077)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1553)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:453)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:614)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.performMarshalling(CWHost.java:146)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.handleSystemModelResourceChanged(CWHost.java:131)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHostBareboardSystem.handleSystemModelResourceChanged(CWHostBareboardSystem.java:974)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler$1.run(SystemModelChangeHandler.java:246)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler.run(SystemModelChangeHandler.java:250)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2018-02-24 16:54:01.449
+!MESSAGE Launch configuration UART_tx1_RAM_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_RAM_Segger%20J-Link_Trace.launch does not exist.
+
+!ENTRY com.freescale.core.debugger.cdt 4 120 2018-02-24 16:54:01.449
+!MESSAGE Error logged from CodeWarrior debugger core:
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration UART_tx1_FLASH_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_FLASH_Segger%20J-Link_Trace.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:1077)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1553)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:453)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:614)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.performMarshalling(CWHost.java:146)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.handleSystemModelResourceChanged(CWHost.java:131)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHostBareboardSystem.handleSystemModelResourceChanged(CWHostBareboardSystem.java:974)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler$1.run(SystemModelChangeHandler.java:246)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler.run(SystemModelChangeHandler.java:250)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2018-02-24 16:54:01.449
+!MESSAGE Launch configuration UART_tx1_FLASH_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_FLASH_Segger%20J-Link_Trace.launch does not exist.
+
+!ENTRY com.freescale.core.debugger.cdt 4 120 2018-02-24 16:54:01.449
+!MESSAGE Error logged from CodeWarrior debugger core:
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration UART_tx1_RAM_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_RAM_Segger%20J-Link_Trace.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:1077)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1553)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:453)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:614)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.performMarshalling(CWHost.java:146)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.handleSystemModelResourceChanged(CWHost.java:131)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHostBareboardSystem.handleSystemModelResourceChanged(CWHostBareboardSystem.java:974)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler$1.run(SystemModelChangeHandler.java:246)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler.run(SystemModelChangeHandler.java:250)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2018-02-24 16:54:01.449
+!MESSAGE Launch configuration UART_tx1_RAM_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_RAM_Segger%20J-Link_Trace.launch does not exist.
+
+!ENTRY com.freescale.core.debugger.cdt 4 120 2018-02-24 16:54:01.464
+!MESSAGE Error logged from CodeWarrior debugger core:
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration UART_tx1_FLASH_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_FLASH_Segger%20J-Link_Trace.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:1077)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1553)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:453)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:614)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.performMarshalling(CWHost.java:146)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.handleSystemModelResourceChanged(CWHost.java:131)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHostBareboardSystem.handleSystemModelResourceChanged(CWHostBareboardSystem.java:974)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler$1.run(SystemModelChangeHandler.java:246)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler.run(SystemModelChangeHandler.java:250)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2018-02-24 16:54:01.464
+!MESSAGE Launch configuration UART_tx1_FLASH_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_FLASH_Segger%20J-Link_Trace.launch does not exist.
+
+!ENTRY com.freescale.core.debugger.cdt 4 120 2018-02-24 16:54:01.464
+!MESSAGE Error logged from CodeWarrior debugger core:
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration UART_tx1_RAM_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_RAM_Segger%20J-Link_Trace.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:1077)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1553)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:453)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:614)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.performMarshalling(CWHost.java:146)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.handleSystemModelResourceChanged(CWHost.java:131)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHostBareboardSystem.handleSystemModelResourceChanged(CWHostBareboardSystem.java:974)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler$1.run(SystemModelChangeHandler.java:246)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler.run(SystemModelChangeHandler.java:250)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2018-02-24 16:54:01.464
+!MESSAGE Launch configuration UART_tx1_RAM_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_RAM_Segger%20J-Link_Trace.launch does not exist.
+
+!ENTRY com.freescale.core.debugger.cdt 4 120 2018-02-24 16:54:01.464
+!MESSAGE Error logged from CodeWarrior debugger core:
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration UART_tx1_FLASH_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_FLASH_Segger%20J-Link_Trace.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:1077)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1553)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:453)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:614)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.performMarshalling(CWHost.java:146)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.handleSystemModelResourceChanged(CWHost.java:131)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHostBareboardSystem.handleSystemModelResourceChanged(CWHostBareboardSystem.java:974)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler$1.run(SystemModelChangeHandler.java:246)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler.run(SystemModelChangeHandler.java:250)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2018-02-24 16:54:01.464
+!MESSAGE Launch configuration UART_tx1_FLASH_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_FLASH_Segger%20J-Link_Trace.launch does not exist.
+
+!ENTRY com.freescale.core.debugger.cdt 4 120 2018-02-24 16:54:01.464
+!MESSAGE Error logged from CodeWarrior debugger core:
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration UART_tx1_RAM_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_RAM_Segger%20J-Link_Trace.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:1077)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1553)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:453)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:614)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.performMarshalling(CWHost.java:146)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.handleSystemModelResourceChanged(CWHost.java:131)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHostBareboardSystem.handleSystemModelResourceChanged(CWHostBareboardSystem.java:974)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler$1.run(SystemModelChangeHandler.java:246)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler.run(SystemModelChangeHandler.java:250)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2018-02-24 16:54:01.464
+!MESSAGE Launch configuration UART_tx1_RAM_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_RAM_Segger%20J-Link_Trace.launch does not exist.
+
+!ENTRY com.freescale.core.debugger.cdt 4 120 2018-02-24 16:54:01.464
+!MESSAGE Error logged from CodeWarrior debugger core:
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration UART_tx1_FLASH_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_FLASH_Segger%20J-Link_Trace.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:1077)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1553)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:453)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:614)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.performMarshalling(CWHost.java:146)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.handleSystemModelResourceChanged(CWHost.java:131)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler$1.run(SystemModelChangeHandler.java:246)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler.run(SystemModelChangeHandler.java:250)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2018-02-24 16:54:01.464
+!MESSAGE Launch configuration UART_tx1_FLASH_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_FLASH_Segger%20J-Link_Trace.launch does not exist.
+
+!ENTRY com.freescale.core.debugger.cdt 4 120 2018-02-24 16:54:01.464
+!MESSAGE Error logged from CodeWarrior debugger core:
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration UART_tx1_RAM_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_RAM_Segger%20J-Link_Trace.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:1077)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1553)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:453)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:614)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.performMarshalling(CWHost.java:146)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.handleSystemModelResourceChanged(CWHost.java:131)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler$1.run(SystemModelChangeHandler.java:246)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler.run(SystemModelChangeHandler.java:250)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2018-02-24 16:54:01.464
+!MESSAGE Launch configuration UART_tx1_RAM_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_RAM_Segger%20J-Link_Trace.launch does not exist.
+
+!ENTRY com.freescale.core.debugger.cdt 4 120 2018-02-24 16:54:01.480
+!MESSAGE Error logged from CodeWarrior debugger core:
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration UART_tx1_FLASH_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_FLASH_Segger%20J-Link_Trace.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:1077)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1553)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:453)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:614)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.performMarshalling(CWHost.java:146)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.handleSystemModelResourceChanged(CWHost.java:131)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHostBareboardSystem.handleSystemModelResourceChanged(CWHostBareboardSystem.java:974)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler$1.run(SystemModelChangeHandler.java:246)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler.run(SystemModelChangeHandler.java:250)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2018-02-24 16:54:01.480
+!MESSAGE Launch configuration UART_tx1_FLASH_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_FLASH_Segger%20J-Link_Trace.launch does not exist.
+
+!ENTRY com.freescale.core.debugger.cdt 4 120 2018-02-24 16:54:01.480
+!MESSAGE Error logged from CodeWarrior debugger core:
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration UART_tx1_RAM_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_RAM_Segger%20J-Link_Trace.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:1077)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1553)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:453)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:614)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.performMarshalling(CWHost.java:146)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.handleSystemModelResourceChanged(CWHost.java:131)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHostBareboardSystem.handleSystemModelResourceChanged(CWHostBareboardSystem.java:974)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler$1.run(SystemModelChangeHandler.java:246)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler.run(SystemModelChangeHandler.java:250)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2018-02-24 16:54:01.480
+!MESSAGE Launch configuration UART_tx1_RAM_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_RAM_Segger%20J-Link_Trace.launch does not exist.
+
+!ENTRY com.freescale.core.debugger.cdt 4 120 2018-02-24 16:54:01.480
+!MESSAGE Error logged from CodeWarrior debugger core:
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration UART_tx1_FLASH_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_FLASH_Segger%20J-Link_Trace.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:1077)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1553)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:453)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:614)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.performMarshalling(CWHost.java:146)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.handleSystemModelResourceChanged(CWHost.java:131)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler$1.run(SystemModelChangeHandler.java:246)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler.run(SystemModelChangeHandler.java:250)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2018-02-24 16:54:01.480
+!MESSAGE Launch configuration UART_tx1_FLASH_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_FLASH_Segger%20J-Link_Trace.launch does not exist.
+
+!ENTRY com.freescale.core.debugger.cdt 4 120 2018-02-24 16:54:01.480
+!MESSAGE Error logged from CodeWarrior debugger core:
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration UART_tx1_RAM_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_RAM_Segger%20J-Link_Trace.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:1077)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1553)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:453)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:614)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.performMarshalling(CWHost.java:146)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.handleSystemModelResourceChanged(CWHost.java:131)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler$1.run(SystemModelChangeHandler.java:246)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler.run(SystemModelChangeHandler.java:250)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2018-02-24 16:54:01.480
+!MESSAGE Launch configuration UART_tx1_RAM_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_RAM_Segger%20J-Link_Trace.launch does not exist.
+
+!ENTRY com.freescale.core.debugger.cdt 4 120 2018-02-24 16:54:01.480
+!MESSAGE Error logged from CodeWarrior debugger core:
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration UART_tx1_FLASH_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_FLASH_Segger%20J-Link_Trace.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:1077)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1553)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:453)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:614)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.performMarshalling(CWHost.java:146)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.handleSystemModelResourceChanged(CWHost.java:131)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler$1.run(SystemModelChangeHandler.java:246)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler.run(SystemModelChangeHandler.java:250)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2018-02-24 16:54:01.480
+!MESSAGE Launch configuration UART_tx1_FLASH_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_FLASH_Segger%20J-Link_Trace.launch does not exist.
+
+!ENTRY com.freescale.core.debugger.cdt 4 120 2018-02-24 16:54:01.480
+!MESSAGE Error logged from CodeWarrior debugger core:
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration UART_tx1_RAM_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_RAM_Segger%20J-Link_Trace.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:1077)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1553)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:453)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:614)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.performMarshalling(CWHost.java:146)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.handleSystemModelResourceChanged(CWHost.java:131)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler$1.run(SystemModelChangeHandler.java:246)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler.run(SystemModelChangeHandler.java:250)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2018-02-24 16:54:01.480
+!MESSAGE Launch configuration UART_tx1_RAM_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_RAM_Segger%20J-Link_Trace.launch does not exist.
+
+!ENTRY com.freescale.core.debugger.cdt 4 120 2018-02-24 16:54:01.480
+!MESSAGE Error logged from CodeWarrior debugger core:
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration UART_tx1_FLASH_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_FLASH_Segger%20J-Link_Trace.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:1077)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1553)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:453)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:614)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.performMarshalling(CWHost.java:146)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.handleSystemModelResourceChanged(CWHost.java:131)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler$1.run(SystemModelChangeHandler.java:246)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler.run(SystemModelChangeHandler.java:250)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2018-02-24 16:54:01.480
+!MESSAGE Launch configuration UART_tx1_FLASH_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_FLASH_Segger%20J-Link_Trace.launch does not exist.
+
+!ENTRY com.freescale.core.debugger.cdt 4 120 2018-02-24 16:54:01.497
+!MESSAGE Error logged from CodeWarrior debugger core:
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration UART_tx1_RAM_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_RAM_Segger%20J-Link_Trace.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:1077)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1553)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:453)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:614)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.performMarshalling(CWHost.java:146)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.handleSystemModelResourceChanged(CWHost.java:131)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler$1.run(SystemModelChangeHandler.java:246)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler.run(SystemModelChangeHandler.java:250)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2018-02-24 16:54:01.497
+!MESSAGE Launch configuration UART_tx1_RAM_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_RAM_Segger%20J-Link_Trace.launch does not exist.
+
+!ENTRY com.freescale.core.debugger.cdt 4 120 2018-02-24 16:54:01.499
+!MESSAGE Error logged from CodeWarrior debugger core:
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration UART_tx1_FLASH_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_FLASH_Segger%20J-Link_Trace.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:1077)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1553)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:453)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:614)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.performMarshalling(CWHost.java:146)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.handleSystemModelResourceChanged(CWHost.java:131)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler$1.run(SystemModelChangeHandler.java:246)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler.run(SystemModelChangeHandler.java:250)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2018-02-24 16:54:01.500
+!MESSAGE Launch configuration UART_tx1_FLASH_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_FLASH_Segger%20J-Link_Trace.launch does not exist.
+
+!ENTRY com.freescale.core.debugger.cdt 4 120 2018-02-24 16:54:01.501
+!MESSAGE Error logged from CodeWarrior debugger core:
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration UART_tx1_RAM_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_RAM_Segger%20J-Link_Trace.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:1077)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1553)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:453)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:614)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.performMarshalling(CWHost.java:146)
+	at com.freescale.cdt.debug.cw.core.system.model.CWHost.handleSystemModelResourceChanged(CWHost.java:131)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler$1.run(SystemModelChangeHandler.java:246)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at com.freescale.cdt.debug.cw.core.system.model.SystemModelChangeHandler.run(SystemModelChangeHandler.java:250)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2018-02-24 16:54:01.501
+!MESSAGE Launch configuration UART_tx1_RAM_Segger J-Link_Trace at file:/C:/Users/Daniela%20Parrales/Documents/GitHub/Micros/UART_tx1/Project_Settings/Debugger/UART_tx1_RAM_Segger%20J-Link_Trace.launch does not exist.
+
+!ENTRY org.eclipse.jface 2 0 2018-02-24 16:54:11.221
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-24 16:54:11.221
+!MESSAGE A conflict occurred for ALT+CTRL+I:
+Binding(ALT+CTRL+I,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.include.browser,Open Include Browser,
+		Open an include browser on the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1e8e35a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(ALT+CTRL+I,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.include.browser,Open Include Browser,
+		Open an include browser on the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1e8e35a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-24 16:54:11.221
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.text.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.cdt.ui.category.refactoring,Refactor - C++,C/C++ Refactorings,true),
+		org.eclipse.ui.internal.MakeHandlersGo@a6683d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.text.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.cdt.ui.category.refactoring,Refactor - C++,C/C++ Refactorings,true),
+		org.eclipse.ui.internal.MakeHandlersGo@a6683d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-24 16:54:11.221
+!MESSAGE A conflict occurred for F4:
+Binding(F4,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.type.hierarchy,Open Type Hierarchy,
+		Open a type hierarchy on the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@10591a4,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(F4,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.type.hierarchy,Open Type Hierarchy,
+		Open a type hierarchy on the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@10591a4,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-24 16:54:11.221
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.navigate.opentype,Open Element,
+		Open an element in an Editor,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@9cc962,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.navigate.opentype,Open Element,
+		Open an element in an Editor,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@9cc962,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-24 16:54:11.221
+!MESSAGE A conflict occurred for F3:
+Binding(F3,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.opendecl,Open Declaration,
+		Open an editor on the selected element's declaration(s),
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1697ab0,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(F3,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.opendecl,Open Declaration,
+		Open an editor on the selected element's declaration(s),
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1697ab0,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-24 16:54:11.221
+!MESSAGE A conflict occurred for CTRL+G:
+Binding(CTRL+G,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.search.finddecl,Declaration,
+		Search for declarations of the selected element in the workspace,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1f5dc6a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(CTRL+G,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.search.finddecl,Declaration,
+		Search for declarations of the selected element in the workspace,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1f5dc6a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-24 16:54:11.221
+!MESSAGE A conflict occurred for CTRL+SHIFT+G:
+Binding(CTRL+SHIFT+G,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.search.findrefs,References,
+		Search for references to the selected element in the workspace,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@59bb55,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(CTRL+SHIFT+G,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.search.findrefs,References,
+		Search for references to the selected element in the workspace,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@59bb55,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-24 16:54:11.221
+!MESSAGE A conflict occurred for ALT+CTRL+H:
+Binding(ALT+CTRL+H,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.call.hierarchy,Open Call Hierarchy,
+		Open the call hierarchy for the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@119f5bd,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(ALT+CTRL+H,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.call.hierarchy,Open Call Hierarchy,
+		Open the call hierarchy for the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@119f5bd,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-24 16:54:11.221
+!MESSAGE A conflict occurred for CTRL+SHIFT+H:
+Binding(CTRL+SHIFT+H,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.navigate.open.type.in.hierarchy,Open Type in Hierarchy,
+		Open a type in the type hierarchy view,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1545a38,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(CTRL+SHIFT+H,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.navigate.open.type.in.hierarchy,Open Type in Hierarchy,
+		Open a type in the type hierarchy view,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1545a38,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-24 16:54:35.866
+!MESSAGE NLS unused message: trace_trigger_dv_error_title in: com.freescale.sa.mcu.analysispoints.nls.ui
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-24 16:54:35.866
+!MESSAGE NLS unused message: trace_trigger_dv_error_message in: com.freescale.sa.mcu.analysispoints.nls.ui
+
+!ENTRY org.eclipse.cdt.core 1 0 2018-02-24 17:00:39.380
+!MESSAGE Indexed 'Examen P1_my corrections try' (4 sources, 29 headers) in 5.53 sec: 1,705 declarations; 2,055 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+!SESSION 2018-02-26 01:43:38.278 -----------------------------------------------
+eclipse.buildId=I20070613-1755
+java.version=1.6.0_15
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 01:43:46.402
+!MESSAGE NLS missing message: ContentTypes_errorDialogAlreadyExists in: org.eclipse.ui.internal.messages
+
+!ENTRY com.freescale.core.ide.cdt.toolchain 4 0 2018-02-26 01:44:08.666
+!MESSAGE Environment Variable Dependency not resolved for 'ARMGNUDirEnv'.
+
+!ENTRY com.freescale.core.ide.cdt.toolchain 4 0 2018-02-26 01:44:08.674
+!MESSAGE Environment Variable Dependency not resolved for 'ARMSummonDirEnv'.
+
+!ENTRY com.freescale.core.ide.cdt.toolchain 4 0 2018-02-26 01:44:08.675
+!MESSAGE Environment Variable Dependency not resolved for 'ARMYagartoDirEnv'.
+
+!ENTRY com.freescale.core.ide.cdt.toolchain 4 0 2018-02-26 01:44:08.676
+!MESSAGE Environment Variable Dependency not resolved for 'ARMdevkitProDirEnv'.
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2018-02-26 01:44:13.383
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.7\eclipse\../MCU/lib/wizard_data/mqx/4.0/cf' does not exist
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2018-02-26 01:44:13.385
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.7\eclipse\../MCU/lib/wizard_data/mqx/4.0/ppc' does not exist
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2018-02-26 01:44:13.386
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.7\eclipse\../MCU/lib/wizard_data/mqx/4.0/patches' does not exist
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2018-02-26 01:44:15.358
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.7\eclipse\../MCU/lib/wizard_data/mqx/4.1/cf' does not exist
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2018-02-26 01:44:15.360
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.7\eclipse\../MCU/lib/wizard_data/mqx/4.1/ppc' does not exist
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2018-02-26 01:44:15.362
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.7\eclipse\../MCU/lib/wizard_data/mqx/4.1/patches' does not exist
+
+!ENTRY com.freescale.processorexpert.core 1 0 2018-02-26 01:44:26.510
+!MESSAGE Plugin com.freescale.processorexpert.core.service ProcessorExpertServiceProvider
+
+!ENTRY org.eclipse.jface 2 0 2018-02-26 01:56:27.808
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-26 01:56:27.808
+!MESSAGE A conflict occurred for ALT+CTRL+I:
+Binding(ALT+CTRL+I,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.include.browser,Open Include Browser,
+		Open an include browser on the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1fa6817,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(ALT+CTRL+I,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.include.browser,Open Include Browser,
+		Open an include browser on the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1fa6817,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-26 01:56:27.808
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.text.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.cdt.ui.category.refactoring,Refactor - C++,C/C++ Refactorings,true),
+		org.eclipse.ui.internal.MakeHandlersGo@c7f24f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.text.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.cdt.ui.category.refactoring,Refactor - C++,C/C++ Refactorings,true),
+		org.eclipse.ui.internal.MakeHandlersGo@c7f24f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-26 01:56:27.808
+!MESSAGE A conflict occurred for F4:
+Binding(F4,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.type.hierarchy,Open Type Hierarchy,
+		Open a type hierarchy on the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@f52e45,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(F4,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.type.hierarchy,Open Type Hierarchy,
+		Open a type hierarchy on the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@f52e45,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-26 01:56:27.808
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.navigate.opentype,Open Element,
+		Open an element in an Editor,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@b0d347,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.navigate.opentype,Open Element,
+		Open an element in an Editor,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@b0d347,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-26 01:56:27.808
+!MESSAGE A conflict occurred for F3:
+Binding(F3,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.opendecl,Open Declaration,
+		Open an editor on the selected element's declaration(s),
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@fedcb8,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(F3,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.opendecl,Open Declaration,
+		Open an editor on the selected element's declaration(s),
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@fedcb8,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-26 01:56:27.808
+!MESSAGE A conflict occurred for CTRL+G:
+Binding(CTRL+G,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.search.finddecl,Declaration,
+		Search for declarations of the selected element in the workspace,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@4cf00a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(CTRL+G,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.search.finddecl,Declaration,
+		Search for declarations of the selected element in the workspace,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@4cf00a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-26 01:56:27.808
+!MESSAGE A conflict occurred for CTRL+SHIFT+G:
+Binding(CTRL+SHIFT+G,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.search.findrefs,References,
+		Search for references to the selected element in the workspace,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@12324c7,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(CTRL+SHIFT+G,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.search.findrefs,References,
+		Search for references to the selected element in the workspace,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@12324c7,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-26 01:56:27.808
+!MESSAGE A conflict occurred for ALT+CTRL+H:
+Binding(ALT+CTRL+H,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.call.hierarchy,Open Call Hierarchy,
+		Open the call hierarchy for the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@43bfdf,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(ALT+CTRL+H,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.call.hierarchy,Open Call Hierarchy,
+		Open the call hierarchy for the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@43bfdf,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-26 01:56:27.808
+!MESSAGE A conflict occurred for CTRL+SHIFT+H:
+Binding(CTRL+SHIFT+H,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.navigate.open.type.in.hierarchy,Open Type in Hierarchy,
+		Open a type in the type hierarchy view,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1e9cdb6,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(CTRL+SHIFT+H,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.navigate.open.type.in.hierarchy,Open Type in Hierarchy,
+		Open a type in the type hierarchy view,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1e9cdb6,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 01:56:37.995
+!MESSAGE NLS unused message: trace_trigger_dv_error_title in: com.freescale.sa.mcu.analysispoints.nls.ui
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 01:56:37.996
+!MESSAGE NLS unused message: trace_trigger_dv_error_message in: com.freescale.sa.mcu.analysispoints.nls.ui
+!SESSION 2018-02-26 01:57:58.060 -----------------------------------------------
+eclipse.buildId=I20070613-1755
+java.version=1.6.0_15
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 01:58:36.340
+!MESSAGE NLS missing message: ContentTypes_errorDialogAlreadyExists in: org.eclipse.ui.internal.messages
+
+!ENTRY com.freescale.core.ide.cdt.toolchain 4 0 2018-02-26 01:58:54.461
+!MESSAGE Environment Variable Dependency not resolved for 'ARMGNUDirEnv'.
+
+!ENTRY com.freescale.core.ide.cdt.toolchain 4 0 2018-02-26 01:58:54.473
+!MESSAGE Environment Variable Dependency not resolved for 'ARMSummonDirEnv'.
+
+!ENTRY com.freescale.core.ide.cdt.toolchain 4 0 2018-02-26 01:58:54.474
+!MESSAGE Environment Variable Dependency not resolved for 'ARMYagartoDirEnv'.
+
+!ENTRY com.freescale.core.ide.cdt.toolchain 4 0 2018-02-26 01:58:54.475
+!MESSAGE Environment Variable Dependency not resolved for 'ARMdevkitProDirEnv'.
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2018-02-26 01:58:56.786
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.7\eclipse\../MCU/lib/wizard_data/mqx/4.0/cf' does not exist
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2018-02-26 01:58:56.788
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.7\eclipse\../MCU/lib/wizard_data/mqx/4.0/ppc' does not exist
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2018-02-26 01:58:56.791
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.7\eclipse\../MCU/lib/wizard_data/mqx/4.0/patches' does not exist
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2018-02-26 01:58:57.572
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.7\eclipse\../MCU/lib/wizard_data/mqx/4.1/cf' does not exist
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2018-02-26 01:58:57.574
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.7\eclipse\../MCU/lib/wizard_data/mqx/4.1/ppc' does not exist
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2018-02-26 01:58:57.579
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.7\eclipse\../MCU/lib/wizard_data/mqx/4.1/patches' does not exist
+
+!ENTRY com.freescale.processorexpert.core 1 0 2018-02-26 01:59:01.284
+!MESSAGE Plugin com.freescale.processorexpert.core.service ProcessorExpertServiceProvider
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 02:00:39.637
+!MESSAGE NLS unused message: trace_trigger_dv_error_title in: com.freescale.sa.mcu.analysispoints.nls.ui
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 02:00:39.638
+!MESSAGE NLS unused message: trace_trigger_dv_error_message in: com.freescale.sa.mcu.analysispoints.nls.ui
+!SESSION 2018-02-26 16:34:22.249 -----------------------------------------------
+eclipse.buildId=I20070613-1755
+java.version=1.6.0_15
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:34:45.281
+!MESSAGE NLS missing message: ContentTypes_errorDialogAlreadyExists in: org.eclipse.ui.internal.messages
+
+!ENTRY com.freescale.core.ide.cdt.toolchain 4 0 2018-02-26 16:35:09.353
+!MESSAGE Environment Variable Dependency not resolved for 'ARMGNUDirEnv'.
+
+!ENTRY com.freescale.core.ide.cdt.toolchain 4 0 2018-02-26 16:35:09.455
+!MESSAGE Environment Variable Dependency not resolved for 'ARMSummonDirEnv'.
+
+!ENTRY com.freescale.core.ide.cdt.toolchain 4 0 2018-02-26 16:35:09.459
+!MESSAGE Environment Variable Dependency not resolved for 'ARMYagartoDirEnv'.
+
+!ENTRY com.freescale.core.ide.cdt.toolchain 4 0 2018-02-26 16:35:09.459
+!MESSAGE Environment Variable Dependency not resolved for 'ARMdevkitProDirEnv'.
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2018-02-26 16:35:13.074
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.7\eclipse\../MCU/lib/wizard_data/mqx/4.0/cf' does not exist
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2018-02-26 16:35:13.074
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.7\eclipse\../MCU/lib/wizard_data/mqx/4.0/ppc' does not exist
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2018-02-26 16:35:13.090
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.7\eclipse\../MCU/lib/wizard_data/mqx/4.0/patches' does not exist
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2018-02-26 16:35:15.117
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.7\eclipse\../MCU/lib/wizard_data/mqx/4.1/cf' does not exist
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2018-02-26 16:35:15.121
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.7\eclipse\../MCU/lib/wizard_data/mqx/4.1/ppc' does not exist
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2018-02-26 16:35:15.121
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.7\eclipse\../MCU/lib/wizard_data/mqx/4.1/patches' does not exist
+
+!ENTRY com.freescale.processorexpert.core 1 0 2018-02-26 16:35:29.707
+!MESSAGE Plugin com.freescale.processorexpert.core.service ProcessorExpertServiceProvider
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.694
+!MESSAGE NLS unused message: NewProjectCreator_coreException1 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.694
+!MESSAGE NLS unused message: NewProjectCreator_coreException2 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.698
+!MESSAGE NLS unused message: NewProjectCreator_coreException3 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.698
+!MESSAGE NLS unused message: NewProjectCreator_exception1 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.698
+!MESSAGE NLS unused message: NewProjectCreator_wizardException1 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.702
+!MESSAGE NLS unused message: NewProjectCreator_wizardException2 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.702
+!MESSAGE NLS unused message: NewProjectCreator_wizardException3 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.706
+!MESSAGE NLS unused message: NewProjectCreator_wizardException4 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.706
+!MESSAGE NLS unused message: NewProjectCreator_wizardException5 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.710
+!MESSAGE NLS unused message: NewProjectCreator_wizardException6 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.710
+!MESSAGE NLS unused message: NewProjectCreator_wizardException7 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.710
+!MESSAGE NLS unused message: NewProjectCreator_wizardException8 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.714
+!MESSAGE NLS unused message: NewProjectCreator_wizardException9 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.714
+!MESSAGE NLS unused message: NewProjectCreator_logError1 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.718
+!MESSAGE NLS unused message: NewProjectCreator_logError2 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.718
+!MESSAGE NLS unused message: NewProjectCreator_logError3 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.722
+!MESSAGE NLS unused message: NewProjectCreator_logError4 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.722
+!MESSAGE NLS unused message: NewProjectCreator_multiProjType in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.722
+!MESSAGE NLS unused message: NewProjectCreator_typeNotFound in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.726
+!MESSAGE NLS unused message: NewProjectCreator_saveOptions in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.726
+!MESSAGE NLS unused message: NewProjectCreator_cantLocateType in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.726
+!MESSAGE NLS unused message: NewProjectCreator_addNature in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.730
+!MESSAGE NLS unused message: NewProjectCreator_addBuilder in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.730
+!MESSAGE NLS unused message: NewProjectCreator_settingNotFound in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.730
+!MESSAGE NLS unused message: NewProjectCreator_optionNotFound in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.734
+!MESSAGE NLS unused message: NewProjectCreator_unknownOption in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.734
+!MESSAGE NLS unused message: NewProjectCreator_configNotFound in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.734
+!MESSAGE NLS unused message: NewProjectCreator_varContainsOpenBrace in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.738
+!MESSAGE NLS unused message: NewProjectCreator_endlessVarLoop in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.738
+!MESSAGE NLS unused message: NewProjectCreator_userFilesNotFound in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.738
+!MESSAGE NLS unused message: NewProjectCreator_warningTitleFilesNotFound in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.738
+!MESSAGE NLS unused message: ExtensionLoader_loadexception in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.742
+!MESSAGE NLS unused message: ExtensionLoader_wizardException in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.742
+!MESSAGE NLS unused message: ExtensionLoader_unknown in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.742
+!MESSAGE NLS unused message: ExtensionLoader_illElement in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.742
+!MESSAGE NLS unused message: CWWizard_windowTitle in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.746
+!MESSAGE NLS unused message: CWWizard_description in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.746
+!MESSAGE NLS unused message: CWWizard_pageTitle in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.746
+!MESSAGE NLS unused message: CWWizard_pageDescription in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.746
+!MESSAGE NLS unused message: CWWizard_errorTitle in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.746
+!MESSAGE NLS unused message: CWWizard_errorMsg in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.750
+!MESSAGE NLS unused message: CWWizard_classicImporter_pageTitle in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.750
+!MESSAGE NLS unused message: CWWizard_classicImporter_pageDescription in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.750
+!MESSAGE NLS unused message: WizardInfo_wizardException0 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.754
+!MESSAGE NLS unused message: WizardInfo_wizardException1 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.754
+!MESSAGE NLS unused message: ApplySetting_noChildFound in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.754
+!MESSAGE NLS unused message: ApplySetting_attrNotAllowed in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.754
+!MESSAGE NLS unused message: ApplySetting_childNotAllowed in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.758
+!MESSAGE NLS unused message: ApplySetting_attrNotSpecified in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.758
+!MESSAGE NLS unused message: ApplySetting_errValueType in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.758
+!MESSAGE NLS unused message: ApplySetting_illSettingType in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.762
+!MESSAGE NLS unused message: ApplySetting_illSettingMode in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.762
+!MESSAGE NLS unused message: ProjectNamePage_stepFormat in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.762
+!MESSAGE NLS unused message: ProjectNamePage_collisionWarn in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.762
+!MESSAGE NLS unused message: ProjectName_error in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:45:00.766
+!MESSAGE NLS unused message: ProjectLocation_error in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:45:02.532
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.hcs08
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:45:02.540
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.rs08
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:45:02.552
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.s12z
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:45:02.560
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.dsc
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:45:02.564
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.mpc56xx
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:45:02.564
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.px
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:45:02.568
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.cfv1
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:45:02.568
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.cfv1+
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:45:02.568
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.v2
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:45:02.572
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.v3
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:45:02.573
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.v4
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:45:02.574
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.v4e
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:45:02.574
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.board.family.v2
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:45:02.575
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.board.family.v3
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:45:02.576
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.board.family.v4
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:45:02.577
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.board.family.v4e
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:45:02.577
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.twrboard.family.v2
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:45:02.578
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.twrboard.family.v3
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:45:02.579
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.twrboard.family.v4
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:45:02.580
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.twrboard.family.v4e
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:45:02.586
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.s12z.subfamily.zvm
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:54:58.288
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk10.ID_CHIP_MK10N512
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:54:58.300
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk10.ID_CHIP_MK10X128
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:54:58.308
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk10.ID_CHIP_MK10X256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:54:58.312
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk20.ID_CHIP_MK20N512
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:54:58.312
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk20.ID_CHIP_MK20X128
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:54:58.316
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk20.ID_CHIP_MK20X256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:54:58.316
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk30.ID_CHIP_MK30N512
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:54:58.316
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk30.ID_CHIP_MK30X128
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:54:58.316
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk30.ID_CHIP_MK30X256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:54:58.320
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk40.ID_CHIP_MK40N512
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:54:58.320
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk40.ID_CHIP_MK40X128
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:54:58.320
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk40.ID_CHIP_MK40X256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:54:58.324
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk60.ID_CHIP_MK60N256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:54:58.324
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk60.ID_CHIP_MK60N512
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:54:58.324
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk60.ID_CHIP_MK60X256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:55:02.586
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_SIZE_LIB_YES
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:55:02.590
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.pa.hasPermanent.dualCore.homogeneous.config
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:55:02.593
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_SOFTWARE_FPU
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:55:02.593
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_HARDWARE_FPU
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:55:02.593
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_SIZE_LIB_NO
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:55:02.597
+!MESSAGE Unknown condition ID: mcu.projectwizard.chip.k10d_100.ID_CHIP_MK60DN256Z
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:55:02.597
+!MESSAGE Unknown condition ID: mcu.projectwizard.chip.k10d_100.ID_CHIP_MK60DN256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:55:02.626
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.hc08
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:55:02.629
+!MESSAGE Unknown condition ID: com.processorexpert.variant.7
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:55:02.633
+!MESSAGE Unknown condition ID: com.processorexpert.variant.8
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:55:02.633
+!MESSAGE Unknown condition ID: com.processorexpert.variant.9
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:55:02.637
+!MESSAGE Unknown condition ID: com.processorexpert.configuration.3
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:55:02.637
+!MESSAGE Unknown condition ID: com.processorexpert.configuration.4
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:55:02.641
+!MESSAGE Unknown condition ID: com.processorexpert.configuration.5
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:55:02.641
+!MESSAGE Unknown condition ID: com.processorexpert.configuration.6
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:55:02.815
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.isColdFire.v1.ID_TARGET_BOOTFLASH
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:55:02.819
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_TARGET_INTRAM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:55:02.819
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_TARGET_CONSOLE_INTRAM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:55:02.819
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_TARGET_EXTRAM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:55:02.823
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_TARGET_CONSOLE_EXTRAM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:55:02.823
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_TARGET_INTFLASH
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:55:02.823
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_TARGET_EXTFLASH
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:55:02.827
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.dsc.ID_TARGET_INTERNAL_FLASH_SDM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:55:02.827
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.dsc.ID_TARGET_INTERNAL_FLASH_LDM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:55:02.831
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.dsc.ID_TARGET_EXTERNAL_RAM_SDM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:55:02.831
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.dsc.ID_TARGET_EXTERNAL_RAM_LDM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:55:02.831
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.dsc.ID_TARGET_SIMULATOR
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:55:02.831
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.pa.ID_TARGET_INTERNAL_RAM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:55:02.835
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.pa.ID_TARGET_INTERNAL_FLASH
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:55:03.353
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copytoproject.cfv1
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:55:03.357
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.dontcopytoproject
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:55:03.357
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.abs
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:55:03.357
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copyelf.pa
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:55:03.357
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.elf.arm
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:55:03.357
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.elf.dsc
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:55:03.362
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.elf.s12z
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:55:03.363
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.bb.elf
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:55:03.365
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.kd.elf
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:55:03.366
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.app.elf
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:55:03.367
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.flt
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2018-02-26 16:55:03.370
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.arm.setSeggerJLinkDPI.SWD
+
+!ENTRY org.eclipse.cdt.core 1 0 2018-02-26 16:55:17.465
+!MESSAGE Indexed 'K64F_Led1_LPTMR0_polling_perif2' (4 sources, 29 headers) in 5.99 sec: 1,686 declarations; 1,951 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:55:24.521
+!MESSAGE NLS unused message: trace_trigger_dv_error_title in: com.freescale.sa.mcu.analysispoints.nls.ui
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-26 16:55:24.525
+!MESSAGE NLS unused message: trace_trigger_dv_error_message in: com.freescale.sa.mcu.analysispoints.nls.ui
+
+!ENTRY org.eclipse.jface 2 0 2018-02-26 16:55:24.742
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-26 16:55:24.742
+!MESSAGE A conflict occurred for ALT+CTRL+I:
+Binding(ALT+CTRL+I,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.include.browser,Open Include Browser,
+		Open an include browser on the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@3fd34a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(ALT+CTRL+I,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.include.browser,Open Include Browser,
+		Open an include browser on the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@3fd34a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-26 16:55:24.742
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.text.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.cdt.ui.category.refactoring,Refactor - C++,C/C++ Refactorings,true),
+		org.eclipse.ui.internal.MakeHandlersGo@48d2b1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.text.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.cdt.ui.category.refactoring,Refactor - C++,C/C++ Refactorings,true),
+		org.eclipse.ui.internal.MakeHandlersGo@48d2b1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-26 16:55:24.742
+!MESSAGE A conflict occurred for F4:
+Binding(F4,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.type.hierarchy,Open Type Hierarchy,
+		Open a type hierarchy on the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1006ff2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(F4,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.type.hierarchy,Open Type Hierarchy,
+		Open a type hierarchy on the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1006ff2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-26 16:55:24.742
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.navigate.opentype,Open Element,
+		Open an element in an Editor,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1b58ad1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.navigate.opentype,Open Element,
+		Open an element in an Editor,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1b58ad1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-26 16:55:24.742
+!MESSAGE A conflict occurred for F3:
+Binding(F3,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.opendecl,Open Declaration,
+		Open an editor on the selected element's declaration(s),
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1acd9a9,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(F3,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.opendecl,Open Declaration,
+		Open an editor on the selected element's declaration(s),
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1acd9a9,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-26 16:55:24.742
+!MESSAGE A conflict occurred for CTRL+G:
+Binding(CTRL+G,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.search.finddecl,Declaration,
+		Search for declarations of the selected element in the workspace,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@10609fb,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(CTRL+G,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.search.finddecl,Declaration,
+		Search for declarations of the selected element in the workspace,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@10609fb,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-26 16:55:24.742
+!MESSAGE A conflict occurred for CTRL+SHIFT+G:
+Binding(CTRL+SHIFT+G,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.search.findrefs,References,
+		Search for references to the selected element in the workspace,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1796a5f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(CTRL+SHIFT+G,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.search.findrefs,References,
+		Search for references to the selected element in the workspace,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1796a5f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-26 16:55:24.742
+!MESSAGE A conflict occurred for ALT+CTRL+H:
+Binding(ALT+CTRL+H,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.call.hierarchy,Open Call Hierarchy,
+		Open the call hierarchy for the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@36aab5,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(ALT+CTRL+H,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.call.hierarchy,Open Call Hierarchy,
+		Open the call hierarchy for the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@36aab5,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-02-26 16:55:24.742
+!MESSAGE A conflict occurred for CTRL+SHIFT+H:
+Binding(CTRL+SHIFT+H,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.navigate.open.type.in.hierarchy,Open Type in Hierarchy,
+		Open a type in the type hierarchy view,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1018165,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(CTRL+SHIFT+H,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.navigate.open.type.in.hierarchy,Open Type in Hierarchy,
+		Open a type in the type hierarchy view,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1018165,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SESSION 2018-02-28 16:20:00.004 -----------------------------------------------
+eclipse.buildId=I20070613-1755
+java.version=1.6.0_15
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-28 16:20:24.605
+!MESSAGE NLS missing message: ContentTypes_errorDialogAlreadyExists in: org.eclipse.ui.internal.messages
+
+!ENTRY com.freescale.core.ide.cdt.toolchain 4 0 2018-02-28 16:20:52.193
+!MESSAGE Environment Variable Dependency not resolved for 'ARMGNUDirEnv'.
+
+!ENTRY com.freescale.core.ide.cdt.toolchain 4 0 2018-02-28 16:20:52.250
+!MESSAGE Environment Variable Dependency not resolved for 'ARMSummonDirEnv'.
+
+!ENTRY com.freescale.core.ide.cdt.toolchain 4 0 2018-02-28 16:20:52.253
+!MESSAGE Environment Variable Dependency not resolved for 'ARMYagartoDirEnv'.
+
+!ENTRY com.freescale.core.ide.cdt.toolchain 4 0 2018-02-28 16:20:52.253
+!MESSAGE Environment Variable Dependency not resolved for 'ARMdevkitProDirEnv'.
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2018-02-28 16:20:56.419
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.7\eclipse\../MCU/lib/wizard_data/mqx/4.0/cf' does not exist
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2018-02-28 16:20:56.419
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.7\eclipse\../MCU/lib/wizard_data/mqx/4.0/ppc' does not exist
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2018-02-28 16:20:56.419
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.7\eclipse\../MCU/lib/wizard_data/mqx/4.0/patches' does not exist
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2018-02-28 16:20:58.631
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.7\eclipse\../MCU/lib/wizard_data/mqx/4.1/cf' does not exist
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2018-02-28 16:20:58.646
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.7\eclipse\../MCU/lib/wizard_data/mqx/4.1/ppc' does not exist
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2018-02-28 16:20:58.662
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.7\eclipse\../MCU/lib/wizard_data/mqx/4.1/patches' does not exist
+
+!ENTRY com.freescale.processorexpert.core 1 0 2018-02-28 16:21:18.917
+!MESSAGE Plugin com.freescale.processorexpert.core.service ProcessorExpertServiceProvider
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-28 16:22:30.137
+!MESSAGE NLS unused message: trace_trigger_dv_error_title in: com.freescale.sa.mcu.analysispoints.nls.ui
+
+!ENTRY org.eclipse.osgi 2 1 2018-02-28 16:22:30.153
+!MESSAGE NLS unused message: trace_trigger_dv_error_message in: com.freescale.sa.mcu.analysispoints.nls.ui
