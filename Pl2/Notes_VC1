@@ -1,0 +1,21 @@
+mV = (ADC Result*3300)/65535
+
+unsigned char v_ASCII[]= {"0.00"v "\n\r"};
+v_ASCII[4] = mv%10+0x30;
+mV/=10; 
+//mV=mV/10;
+v_ASCII[3]=mV%10+'0';
+
+
+
+atoi()
+arreglo[]={"123"}
+
+
+temp=0;
+do{
+temp=temp*10;
+temp=temp+arreglo[i]-'0';
+
+}while(arreglo[++i]==0);
+

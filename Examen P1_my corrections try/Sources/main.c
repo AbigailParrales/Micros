@@ -100,8 +100,8 @@ int main(void){
 		tmp=(result_tmp/10)*10;		//decenas
 		resultado[0]=tmp;
 		resultado[1]=result_tmp-tmp;
-		vUART_send(resultado[1]+30);
-		vUART_send(resultado[0]+30);
+		vUART_send(resultado[1]+31);
+		vUART_send(resultado[0]+31);
 		/*vUART_send(resultado[1]+'0');
 		vUART_send(resultado[0]+'0');*/
 	}

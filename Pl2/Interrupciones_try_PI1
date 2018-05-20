@@ -1,0 +1,106 @@
+/*
+ * main implementation: use this 'C' sample to create your own application
+ *
+ */
+
+#include "derivative.h" /* include peripheral declarations */
+
+unsigned char mensajes[4][20]={"AT","AT+CIFSR\r\n","AT+CIPMUX=1\r\n","AT+CIPSERVER=1,80\r\n"};
+#define m_AT 0
+unsigned char *ptr_msg;
+/*unsigned char f1_RIE = UART1_C2&0x20;
+unsigned char f0_RIE = UART0_C2&0x20;
+unsigned char f1_RDRF = UART1_S1&0x20;
+unsigned char f0_RDRF = UART0_S1&0x20;
+
+unsigned char f1_TCIE = UART1_C2&0x80;
+unsigned char f1_TCIE = UART1_C2&0x80;
+unsigned char f1_TC = UART1_S1&0x80;
+unsigned char f0_TC = UART0_S1&0x80;*/
+
+void vUART_init(void){
+	//UART init
+	SIM_SCGC4=0x00000C00; 	//Enables clock UART1 and UART0
+	UART0_BDH=0;
+	UART0_BDL=11;			//Establishes the baud rate of UART0 to 115200		
+	UART1_BDH=0;
+	UART1_BDL=11;			//Establishes the baud rate of UART1 to 115200
+
+	UART0_C2=12;  			// bit 3: HAB Tx, bit 2: HAB Rx
+	UART1_C2=12;			// bit 3: HAB Tx, bit 2: HAB Rx
+
+	//Pin terminal init
+	SIM_SCGC5=0x00002C00; 	//Enable clock PORTB (PB16 and PB17 are Tx y Rx)
+
+	//UART0 Rx and Tx pinout
+	PORTB_PCR16=0x00000300;		//Enable clock PB16 Rx
+	PORTB_PCR17=0x00000300;		//Enable clock PB17 Tx
+
+	//UART1 Rx and Tx pinout
+	PORTC_PCR3=0x00000300; //Hab clk PC3 Rx
+	PORTC_PCR4=0x00000300; //Hab clk PC4 Tx
+
+	//Led init
+	PORTB_PCR21=0x00000100;		//Select GPIO for PtB21		Blue LED
+	PORTB_PCR22=0x00000100;		//Select GPIO for PtB22		Red LED
+	PORTE_PCR26=0x00000100;		//Select GPIO for PtE26		Green LED
+
+	GPIOB_PDDR=0x00600000;		//GPIO Output configure
+	GPIOE_PDDR=0x04000000;
+
+	//NVIC configure
+	NVICICER0=(1<<(31%32));	//Configure interruption		We choose the 34 since we are using status handler for UART1
+	NVICISER0|=(1<<(31%32));	//Enable NVIC interruption
+}
+
+void UART0_Status_IRQHandler(){	//receive()
+
+	/*	do{}while(!(UART1_S1&0x20));	//Data ready	
+
+	//Eco to PC
+	do{}while (!(UART0_S1&0x80));	//Tx Shifting 	
+	UART0_D = UART1_D;*/
+
+
+
+	if(UART0_S1&(1<<7)){		//There´s space for a new character, see if the TCIE is off
+		UART0_D=*ptr_msg++;
+		if(*ptr_msg==0){
+			UART0_C2&=~(1<<7);	//Disable interruption
+		}
+	}
+
+	UART0_D='s';
+}
+
+void vUART_send_debug (unsigned char dato){
+	do{}while(!(UART0_S1&0x80));	//Transmit Complete Flag
+	UART0_D=dato;
+	UART0_C2&=(1<<7);	//Enable interruption
+}
+void UART1_send_msg(unsigned char *msg_id){		//msg_id es el número de mensaje que queremos mandar
+	ptr_msg=&mensajes[msg_id,0];
+	//UART1_D=*ptr_msg;
+	UART0_D=*ptr_msg;
+
+	//Enable interruption for UART1_Tx
+	UART0_C2&=(1<<7);	//Enable interruption
+}
+
+
+int main(void){
+
+	//NVIC for UART0 and UART1
+
+	//UART1_send_msg("AT+CIFSR");
+	//UART1_send_msg("AT+....");
+	vUART_init();
+	vUART_send_debug('P');
+	//UART0_send_msg(m_AT);//*
+
+	while(1){		//This infinite loop will convert to a function that makes the micro enter to a low consume mode
+
+	}
+
+	return 0;
+}

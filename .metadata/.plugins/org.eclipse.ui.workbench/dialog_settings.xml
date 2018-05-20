@@ -19,6 +19,7 @@
 	<section name="NewWizardAction">
 		<item value="com.freescale.mcu.projectwizard.wizard1" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.ui.Basic"/>
 		</list>
 	</section>
 	<section name="ImportExportAction">
